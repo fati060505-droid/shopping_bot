@@ -1,0 +1,405 @@
+[
+ {
+  "category": "laptop",
+  "title": "Aurora 14 Slim Laptop, Ryzen 5, 16GB RAM, 512GB SSD",
+  "price": 649,
+  "rating": 4.5,
+  "reviews": 2140,
+  "store": "DemoMart",
+  "tags": [
+   "ryzen 5",
+   "16gb ram",
+   "512gb ssd",
+   "lightweight",
+   "14 inch",
+   "long battery"
+  ],
+  "snippet": "Thin 1.3 kg body with a 10 hour battery.",
+  "link": "https://example.com/demo-product/1",
+  "image": ""
+ },
+ {
+  "category": "laptop",
+  "title": "Voyager 15 Laptop, Core i7, 16GB RAM, 1TB SSD",
+  "price": 899,
+  "rating": 4.6,
+  "reviews": 980,
+  "store": "DemoMart",
+  "tags": [
+   "core i7",
+   "16gb ram",
+   "1tb ssd",
+   "15 inch",
+   "backlit keyboard"
+  ],
+  "snippet": "Fast all-rounder for work and light editing.",
+  "link": "https://example.com/demo-product/2",
+  "image": ""
+ },
+ {
+  "category": "laptop",
+  "title": "Nimbus Student Laptop, Celeron, 4GB RAM, 128GB",
+  "price": 249,
+  "rating": 3.7,
+  "reviews": 5300,
+  "store": "ValueHub",
+  "tags": [
+   "celeron",
+   "4gb ram",
+   "128gb",
+   "budget",
+   "basic"
+  ],
+  "snippet": "Basic browsing and documents only.",
+  "link": "https://example.com/demo-product/3",
+  "image": ""
+ },
+ {
+  "category": "laptop",
+  "title": "Titan G5 Gaming Laptop, RTX 4060, 16GB RAM, 144Hz",
+  "price": 1149,
+  "rating": 4.4,
+  "reviews": 760,
+  "store": "GameDepot",
+  "tags": [
+   "gaming",
+   "rtx 4060",
+   "16gb ram",
+   "144hz",
+   "dedicated gpu"
+  ],
+  "snippet": "Strong graphics, heavy and short on battery.",
+  "link": "https://example.com/demo-product/4",
+  "image": ""
+ },
+ {
+  "category": "laptop",
+  "title": "Pixel Air 13 Ultrabook, 16GB RAM, 512GB, OLED",
+  "price": 1099,
+  "rating": 4.7,
+  "reviews": 410,
+  "store": "TechBay",
+  "tags": [
+   "ultrabook",
+   "oled",
+   "16gb ram",
+   "512gb ssd",
+   "lightweight",
+   "13 inch"
+  ],
+  "snippet": "Gorgeous OLED screen, premium build.",
+  "link": "https://example.com/demo-product/5",
+  "image": ""
+ },
+ {
+  "category": "headphones",
+  "title": "SonicPro ANC Wireless Headphones, 40h Battery",
+  "price": 129,
+  "rating": 4.5,
+  "reviews": 8700,
+  "store": "AudioNest",
+  "tags": [
+   "noise cancelling",
+   "wireless",
+   "bluetooth",
+   "40 hour battery",
+   "over ear"
+  ],
+  "snippet": "Great ANC for the price.",
+  "link": "https://example.com/demo-product/6",
+  "image": ""
+ },
+ {
+  "category": "headphones",
+  "title": "BassLite Wireless Earbuds, 24h Case",
+  "price": 39,
+  "rating": 4.0,
+  "reviews": 15200,
+  "store": "ValueHub",
+  "tags": [
+   "earbuds",
+   "wireless",
+   "bluetooth",
+   "budget",
+   "water resistant"
+  ],
+  "snippet": "Punchy bass, no noise cancelling.",
+  "link": "https://example.com/demo-product/7",
+  "image": ""
+ },
+ {
+  "category": "headphones",
+  "title": "Studio Reference Wired Headphones",
+  "price": 99,
+  "rating": 4.6,
+  "reviews": 3200,
+  "store": "AudioNest",
+  "tags": [
+   "wired",
+   "studio",
+   "over ear",
+   "flat sound",
+   "detachable cable"
+  ],
+  "snippet": "Accurate sound for mixing and music.",
+  "link": "https://example.com/demo-product/8",
+  "image": ""
+ },
+ {
+  "category": "headphones",
+  "title": "Quiet One Premium ANC Headphones",
+  "price": 329,
+  "rating": 4.7,
+  "reviews": 2100,
+  "store": "TechBay",
+  "tags": [
+   "noise cancelling",
+   "wireless",
+   "bluetooth",
+   "premium",
+   "30 hour battery",
+   "multipoint"
+  ],
+  "snippet": "Class-leading noise cancelling and comfort.",
+  "link": "https://example.com/demo-product/9",
+  "image": ""
+ },
+ {
+  "category": "smartphone",
+  "title": "Nova X5 5G Smartphone, 8GB RAM, 256GB",
+  "price": 379,
+  "rating": 4.4,
+  "reviews": 6400,
+  "store": "DemoMart",
+  "tags": [
+   "5g",
+   "8gb ram",
+   "256gb",
+   "120hz",
+   "50mp camera",
+   "5000mah battery"
+  ],
+  "snippet": "Smooth screen and two day battery.",
+  "link": "https://example.com/demo-product/10",
+  "image": ""
+ },
+ {
+  "category": "smartphone",
+  "title": "Orbit Lite 4G Smartphone, 4GB RAM, 64GB",
+  "price": 129,
+  "rating": 3.9,
+  "reviews": 9800,
+  "store": "ValueHub",
+  "tags": [
+   "4g",
+   "4gb ram",
+   "64gb",
+   "budget",
+   "5000mah battery"
+  ],
+  "snippet": "Good basic phone for calls and apps.",
+  "link": "https://example.com/demo-product/11",
+  "image": ""
+ },
+ {
+  "category": "smartphone",
+  "title": "Zenith Pro 5G, 12GB RAM, 512GB, Triple Camera",
+  "price": 799,
+  "rating": 4.6,
+  "reviews": 2900,
+  "store": "TechBay",
+  "tags": [
+   "5g",
+   "12gb ram",
+   "512gb",
+   "flagship",
+   "triple camera",
+   "wireless charging",
+   "120hz"
+  ],
+  "snippet": "Flagship camera and speed.",
+  "link": "https://example.com/demo-product/12",
+  "image": ""
+ },
+ {
+  "category": "smartphone",
+  "title": "Pulse A3 5G, 6GB RAM, 128GB",
+  "price": 249,
+  "rating": 4.2,
+  "reviews": 7100,
+  "store": "DemoMart",
+  "tags": [
+   "5g",
+   "6gb ram",
+   "128gb",
+   "mid range",
+   "90hz",
+   "5000mah battery"
+  ],
+  "snippet": "Solid mid-range value.",
+  "link": "https://example.com/demo-product/13",
+  "image": ""
+ },
+ {
+  "category": "blender",
+  "title": "VortexMax 1200W Blender, 2L Jar",
+  "price": 89,
+  "rating": 4.5,
+  "reviews": 4300,
+  "store": "HomeCraft",
+  "tags": [
+   "1200w",
+   "2l jar",
+   "crushes ice",
+   "dishwasher safe",
+   "smoothie"
+  ],
+  "snippet": "Powerful for smoothies and ice.",
+  "link": "https://example.com/demo-product/14",
+  "image": ""
+ },
+ {
+  "category": "blender",
+  "title": "MiniMix Personal Blender 350W",
+  "price": 25,
+  "rating": 3.8,
+  "reviews": 12800,
+  "store": "ValueHub",
+  "tags": [
+   "350w",
+   "personal",
+   "portable",
+   "smoothie",
+   "small"
+  ],
+  "snippet": "Single-serve, struggles with ice.",
+  "link": "https://example.com/demo-product/15",
+  "image": ""
+ },
+ {
+  "category": "blender",
+  "title": "ChefPro 1800W Commercial Blender",
+  "price": 219,
+  "rating": 4.7,
+  "reviews": 1500,
+  "store": "HomeCraft",
+  "tags": [
+   "1800w",
+   "commercial",
+   "crushes ice",
+   "soup",
+   "self cleaning",
+   "2l jar"
+  ],
+  "snippet": "Heavy duty and quiet for its power.",
+  "link": "https://example.com/demo-product/16",
+  "image": ""
+ },
+ {
+  "category": "office chair",
+  "title": "ErgoFlex Mesh Office Chair, Lumbar Support",
+  "price": 189,
+  "rating": 4.4,
+  "reviews": 5200,
+  "store": "HomeCraft",
+  "tags": [
+   "ergonomic",
+   "lumbar support",
+   "mesh",
+   "adjustable armrests",
+   "tilt"
+  ],
+  "snippet": "Breathable and well adjustable.",
+  "link": "https://example.com/demo-product/17",
+  "image": ""
+ },
+ {
+  "category": "office chair",
+  "title": "BasicSeat Task Chair",
+  "price": 59,
+  "rating": 3.6,
+  "reviews": 9100,
+  "store": "ValueHub",
+  "tags": [
+   "basic",
+   "budget",
+   "fabric",
+   "no lumbar"
+  ],
+  "snippet": "Fine for short sessions only.",
+  "link": "https://example.com/demo-product/18",
+  "image": ""
+ },
+ {
+  "category": "office chair",
+  "title": "PosturePro Executive Ergonomic Chair",
+  "price": 429,
+  "rating": 4.7,
+  "reviews": 1800,
+  "store": "TechBay",
+  "tags": [
+   "ergonomic",
+   "lumbar support",
+   "headrest",
+   "adjustable armrests",
+   "premium",
+   "mesh"
+  ],
+  "snippet": "Premium comfort for long workdays.",
+  "link": "https://example.com/demo-product/19",
+  "image": ""
+ },
+ {
+  "category": "backpack",
+  "title": "TrailLite 30L Laptop Backpack, Water Resistant",
+  "price": 49,
+  "rating": 4.6,
+  "reviews": 7600,
+  "store": "OutdoorBay",
+  "tags": [
+   "30l",
+   "laptop compartment",
+   "water resistant",
+   "usb port",
+   "anti theft"
+  ],
+  "snippet": "Roomy, comfortable and tough.",
+  "link": "https://example.com/demo-product/20",
+  "image": ""
+ },
+ {
+  "category": "backpack",
+  "title": "CityPack 20L Slim Backpack",
+  "price": 35,
+  "rating": 4.1,
+  "reviews": 3900,
+  "store": "ValueHub",
+  "tags": [
+   "20l",
+   "slim",
+   "laptop compartment",
+   "lightweight"
+  ],
+  "snippet": "Compact commuter bag.",
+  "link": "https://example.com/demo-product/21",
+  "image": ""
+ },
+ {
+  "category": "backpack",
+  "title": "Summit 45L Travel Backpack",
+  "price": 139,
+  "rating": 4.7,
+  "reviews": 2100,
+  "store": "OutdoorBay",
+  "tags": [
+   "45l",
+   "travel",
+   "carry on",
+   "water resistant",
+   "padded straps"
+  ],
+  "snippet": "Great for travel and hiking.",
+  "link": "https://example.com/demo-product/22",
+  "image": ""
+ }
+]
